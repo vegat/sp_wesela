@@ -1,7 +1,7 @@
 <?php
 $pageTitle = 'O Starej Podkowie';
 $barnImage = image_resizer()->getResized(
-    'https://images.unsplash.com/photo-1470246973918-29a93221c455?auto=format&fit=crop&w=2000&q=80',
+    'https://placehold.co/1200x900?text=Zabytkowa+stodoła',
     1200,
     900
 );

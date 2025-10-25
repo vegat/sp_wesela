@@ -1,7 +1,7 @@
 <?php
 $pageTitle = 'Wesele w zabytkowej stodole';
 $heroImage = image_resizer()->getResized(
-    'https://images.unsplash.com/photo-1523419409543-0c1df022bdd1?auto=format&fit=crop&w=2400&q=80',
+    'https://placehold.co/1600x900?text=Stara+Podkowa',
     1600,
     900
 );

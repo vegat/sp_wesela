@@ -1,7 +1,7 @@
 <?php
 $pageTitle = 'Oferta weselna';
 $meadowImage = image_resizer()->getResized(
-    'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=2000&q=80',
+    'https://placehold.co/1200x800?text=Łąka+i+parkiet',
     1200,
     800
 );

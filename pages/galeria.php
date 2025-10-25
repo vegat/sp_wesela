@@ -2,27 +2,27 @@
 $pageTitle = 'Galeria Starej Podkowy';
 $galleryImages = [
     [
-        'url' => 'https://images.unsplash.com/photo-1520854221050-0f4caff449fb?auto=format&fit=crop&w=1800&q=80',
+        'url' => 'https://placehold.co/1200x800?text=Sala+w+stodole',
         'alt' => 'Drewniana stodoła udekorowana na wesele'
     ],
     [
-        'url' => 'https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1800&q=80',
+        'url' => 'https://placehold.co/1200x800?text=Drewniane+stoły',
         'alt' => 'Drewniane stoły weselne z dekoracjami roślinnymi'
     ],
     [
-        'url' => 'https://images.unsplash.com/photo-1478146896981-b80fe4635687?auto=format&fit=crop&w=1800&q=80',
+        'url' => 'https://placehold.co/1200x800?text=Para+na+parkiecie',
         'alt' => 'Para młoda tańcząca na zewnątrz o zachodzie słońca'
     ],
     [
-        'url' => 'https://images.unsplash.com/photo-1520854221051-15151f1f8c9b?auto=format&fit=crop&w=1800&q=80',
+        'url' => 'https://placehold.co/1200x800?text=Zastawa+boho',
         'alt' => 'Zastawa stołowa w stylu boho'
     ],
     [
-        'url' => 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1800&q=80',
+        'url' => 'https://placehold.co/1200x800?text=Łąka+i+ognisko',
         'alt' => 'Łąka z miejscem na ognisko'
     ],
     [
-        'url' => 'https://images.unsplash.com/photo-1474899351970-60f460e48b2a?auto=format&fit=crop&w=1800&q=80',
+        'url' => 'https://placehold.co/1200x800?text=Bukiet+na+stole',
         'alt' => 'Bukiet kwiatów na drewnianym stole'
     ],
 ];
