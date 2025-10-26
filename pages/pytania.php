@@ -2,35 +2,51 @@
 $pageTitle = 'Najczęściej zadawane pytania';
 $faqs = [
     [
-        'question' => 'Czy stodoła jest ogrzewana?',
-        'answer' => 'Tak, dysponujemy systemem ogrzewania nadmuchowego oraz zasłanialną bramą. Dzięki temu wiosenne i jesienne przyjęcia są komfortowe.'
+        'question' => 'Cześć! Kim jesteśmy i z kim będziecie planować wesele?',
+        'answer' => 'Jesteśmy Tomek i Iza, gospodarze Starej Podkowy. Od pierwszej wiadomości macie bezpośredni kontakt właśnie z nami i to my pomożemy Wam przejść przez każdy etap przygotowań.'
     ],
     [
-        'question' => 'Ile osób zmieści się przy stołach?',
-        'answer' => 'Przy prostokątnych stołach z litego drewna wygodnie ugościmy do 120 osób, zachowując przestrzeń do tańca i bufety.'
+        'question' => 'Czy stodoła jest ogrzewana i komfortowa o każdej porze roku?',
+        'answer' => 'Tak, mamy wydajne ogrzewanie nadmuchowe i zasłanianą drewnianą bramę. Dzięki temu wiosną i jesienią jest ciepło, a latem możemy szeroko otworzyć wnętrze na łąkę.'
     ],
     [
-        'question' => 'Czy można zorganizować ceremonię cywilną na miejscu?',
-        'answer' => 'Tak. Wspólnie przygotujemy plenerową scenografię na łące lub przy drewnianej bramie stodoły. W razie niepogody przeniesiemy uroczystość do wnętrza.'
+        'question' => 'Ile osób wygodnie ugościmy przy stołach?',
+        'answer' => 'Przy naszych prostokątnych stołach z litego drewna komfortowo usadzimy do 120 osób, zachowując szerokie przejścia i miejsce na parkiet.'
     ],
     [
-        'question' => 'Jakie są możliwości noclegowe?',
-        'answer' => 'Na terenie obiektu znajdują się pokoje ze wspólnymi łazienkami dla 25 osób. Dodatkowo możecie rozstawić namioty lub domki glampingowe na łące.'
+        'question' => 'Czy doradzamy w wyborze cateringu lub ekipy kucharskiej?',
+        'answer' => 'Oczywiście! Polecimy sprawdzonych szefów kuchni i firmy cateringowe, które czują klimat slow wedding. Możecie też przywieźć własną ekipę, a my oddamy do dyspozycji w pełni wyposażone zaplecze.'
     ],
     [
-        'question' => 'Czy pomagacie w organizacji wesela?',
-        'answer' => 'Jesteśmy z Wami od pierwszego spotkania. Rekomendujemy sprawdzonych podwykonawców, a w dniu wydarzenia koordynujemy harmonogram i logistykę.'
+        'question' => 'Czy można zorganizować ceremonię cywilną albo humanistyczną na miejscu?',
+        'answer' => 'Tak, wspólnie ustawimy scenografię na łące lub przy drewnianej bramie. Mamy też plan B we wnętrzu stodoły, gdyby pogoda zaskoczyła.'
     ],
     [
-        'question' => 'Czy można przywieźć własny alkohol i catering?',
-        'answer' => 'Tak. Zapewniamy magazyn i chłodnię dla cateringu oraz zaplecze gastronomiczne o powierzchni 60 m² w pełni wyposażone w sprzęty.'
+        'question' => 'Jak wyglądają noclegi dla gości?',
+        'answer' => 'Na miejscu czeka 25 łóżek w przytulnych pokojach ze wspólnymi łazienkami. Jeśli planujecie więcej miejsc, pomagamy rozstawić namioty lub polecamy pensjonaty w okolicy.'
+    ],
+    [
+        'question' => 'Co z dekoracjami i wystrojem?',
+        'answer' => 'Udostępniamy Wam nasze dekoracje, a jeśli marzycie o czymś wyjątkowym, podpowiemy, gdzie wypożyczyć dodatkowe elementy. Chętnie pomożemy też w stylizacji sali w dniu ślubu.'
+    ],
+    [
+        'question' => 'Jak przebiega dzień wesela z naszej perspektywy?',
+        'answer' => 'Jesteśmy z Wami od poranka. Razem z zespołem koordynujemy dostawców, rozstawiamy dekoracje, pilnujemy harmonogramu i reagujemy na bieżące potrzeby, żebyście Wy mogli skupić się na celebrowaniu.'
+    ],
+    [
+        'question' => 'Czy możemy odwiedzić Stodołę przed podjęciem decyzji?',
+        'answer' => 'Jasne! Umówcie się z nami na spacer po gospodarstwie. Pokażemy Wam salę, łąkę, zaplecze i odpowiemy na wszystkie pytania przy kawie.'
+    ],
+    [
+        'question' => 'Jak długo możemy bawić się w noc wesela?',
+        'answer' => 'Nie ograniczamy Was do sztywnych godzin. Możemy tańczyć do białego rana, a ognisko na łące rozpalimy dokładnie wtedy, kiedy będziecie mieli ochotę.'
     ],
 ];
 ?>
 <section class="section section-page-intro">
     <div class="container narrow">
         <h1>Najczęściej zadawane pytania</h1>
-        <p>Jeśli nie znajdziesz odpowiedzi na swoje pytanie, napisz do nas. Z chęcią pomożemy zaplanować każdy detal.</p>
+        <p>Jeśli nie znajdziecie tu odpowiedzi, napiszcie do nas śmiało. Jesteśmy do Waszej dyspozycji i chętnie dopowiemy wszystko przy kawie albo on-line.</p>
     </div>
 </section>
 
@@ -49,8 +65,8 @@ $faqs = [
 
 <section class="section section-cta">
     <div class="container narrow">
-        <h2>Masz dodatkowe pytania?</h2>
-        <p>Nasz zespół jest do Twojej dyspozycji. Umówmy się na rozmowę lub spotkanie w Starej Podkowie.</p>
+        <h2>Macie dodatkowe pytania?</h2>
+        <p>Jesteśmy tu dla Was. Umówmy się na rozmowę lub spotkanie w Starej Podkowie i wspólnie zaplanujmy Wasz dzień.</p>
         <a class="btn" href="?page=kontakt">Skontaktuj się</a>
     </div>
 </section>

@@ -16,6 +16,7 @@ $heroImage = image_resizer()->getResized(
                 <a class="btn" href="?page=oferta">Poznaj ofertę</a>
                 <a class="btn-secondary" href="?page=galeria">Zobacz galerię</a>
             </div>
+            <p class="hero-signature">Do zobaczenia w Starej Podkowie – Tomek &amp; Iza</p>
         </div>
     </div>
     <svg class="hero-wave" viewBox="0 0 1440 160" preserveAspectRatio="none" aria-hidden="true">
