@@ -387,6 +387,47 @@ p {
     color: var(--color-primary);
 }
 
+.section-pricing .pricing-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 2.5rem;
+}
+
+.section-pricing article {
+    background: #fff;
+    padding: 2.3rem;
+    border-radius: 26px;
+    box-shadow: 0 18px 40px rgba(0, 0, 0, 0.08);
+}
+
+.section-pricing ul {
+    margin: 0;
+    padding-left: 1.2rem;
+    color: var(--color-muted);
+}
+
+.section-pricing p {
+    color: var(--color-text);
+}
+
+.section-catering {
+    background: rgba(255, 247, 239, 0.85);
+}
+
+.section-catering ul {
+    margin: 1.5rem 0;
+    padding-left: 1.2rem;
+    color: var(--color-text);
+}
+
+.section-catering li {
+    margin-bottom: 0.8rem;
+}
+
+.section-catering a {
+    font-weight: 600;
+}
+
 .section-story {
     position: relative;
 }

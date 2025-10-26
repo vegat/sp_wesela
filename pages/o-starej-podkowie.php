@@ -11,6 +11,7 @@ $barnImage = image_resizer()->getResized(
         <div>
             <h1>Ponad sto lat historii</h1>
             <p>Stara Podkowa to miejsce, które nie udaje stodoły – ono nią jest. Drewniana konstrukcja z 1905 roku wciąż nosi ślady pracy gospodarzy i wspomnień, które dziś tworzą wyjątkową scenę dla Waszego święta.</p>
+            <p>Razem z Tomkiem i Izą odkryjecie przestrzeń, w której weekend weselny płynie w swoim rytmie: od piątkowych przygotowań, przez nocne tańce, po niedzielne śniadania na trawie.</p>
         </div>
         <div class="image-frame">
             <img src="<?= esc_html(str_replace(__DIR__ . '/../', '', $barnImage)); ?>" alt="Wnętrze zabytkowej stodoły">
@@ -35,8 +36,8 @@ $barnImage = image_resizer()->getResized(
                 <p>Rozpoczynamy rewitalizację, zachowując oryginalne belki, podłogę i wrota, dodając nowoczesne instalacje.</p>
             </li>
             <li>
-                <span class="timeline-year">2020</span>
-                <p>Stodoła otwiera się na pierwsze wesela, zyskując renomę autentycznego miejsca z duszą.</p>
+                <span class="timeline-year">2024</span>
+                <p>Oddajemy Wam do dyspozycji cały weekend – możecie dekorować od piątku, bawić się do białego rana i spokojnie odebrać rzeczy nawet dwa dni po weselu.</p>
             </li>
         </ul>
     </div>
@@ -47,12 +48,12 @@ $barnImage = image_resizer()->getResized(
         <h2>Ludzie z energią</h2>
         <div class="team-grid">
             <article>
-                <h3>Marta i Kacper</h3>
-                <p>Młodzi gospodarze, którzy zakochali się w stodole i postanowili tchnąć w nią nowe życie. Łączą kreatywność z logistyką.</p>
+                <h3>Tomek i Iza</h3>
+                <p>To my odbieramy Wasze wiadomości, oprowadzamy po stodole i jesteśmy z Wami przez cały weekend. Łączymy serce do historii miejsca z logistycznym ogarnięciem każdej uroczystości.</p>
             </article>
             <article>
                 <h3>Zespół koordynacji</h3>
-                <p>Grupa ambitnych i zaangażowanych osób obecnych przez cały dzień wydarzenia. Czuwają nad scenariuszem i reagują zanim ktoś zdąży poprosić.</p>
+                <p>Nasi najbliżsi współpracownicy, którzy pomagają w ustawieniu stołów, przywitaniu dostawców i dbają, by każde marzenie z notatnika pary młodej zostało dopięte na ostatni guzik.</p>
             </article>
             <article>
                 <h3>Przyjaciele gospodarstwa</h3>

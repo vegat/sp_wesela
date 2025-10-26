@@ -2,44 +2,60 @@
 $pageTitle = 'Najczęściej zadawane pytania';
 $faqs = [
     [
-        'question' => 'Cześć! Kim jesteśmy i z kim będziecie planować wesele?',
-        'answer' => 'Jesteśmy Tomek i Iza, gospodarze Starej Podkowy. Od pierwszej wiadomości macie bezpośredni kontakt właśnie z nami i to my pomożemy Wam przejść przez każdy etap przygotowań.'
+        'question' => 'Cześć! Kim jesteśmy i jak wygląda kontakt z nami?',
+        'answer' => 'Tu Tomek i Iza – gospodarze Starej Podkowy. To my odbieramy Wasze maile i telefony, prowadzimy spotkania i jesteśmy przy Was przez cały weekend. Bez pośredników i call center.'
     ],
     [
-        'question' => 'Czy stodoła jest ogrzewana i komfortowa o każdej porze roku?',
-        'answer' => 'Tak, mamy wydajne ogrzewanie nadmuchowe i zasłanianą drewnianą bramę. Dzięki temu wiosną i jesienią jest ciepło, a latem możemy szeroko otworzyć wnętrze na łąkę.'
+        'question' => 'Jak wygląda dostęp do obiektu przed i po weselu?',
+        'answer' => 'Wynajmujecie nas na cały weekend. Możecie wejść z dekoracjami już w piątek, bawić się od sobotniego poranka aż do 7:00 w niedzielę, a rzeczy odebrać na spokojnie nawet dzień czy dwa później.'
     ],
     [
-        'question' => 'Ile osób wygodnie ugościmy przy stołach?',
-        'answer' => 'Przy naszych prostokątnych stołach z litego drewna komfortowo usadzimy do 120 osób, zachowując szerokie przejścia i miejsce na parkiet.'
+        'question' => 'Co dokładnie otrzymujemy w cenie wynajmu?',
+        'answer' => 'Dajemy Wam całą stodołę z łąką, hamakami, grami plenerowymi, strefami chill i parkingami. Sala czeka wysprzątana, z dopasowaną liczbą stołów i krzeseł z litego drewna, a nasze dekoracje możecie wykorzystać bez opłat.'
     ],
     [
-        'question' => 'Czy doradzamy w wyborze cateringu lub ekipy kucharskiej?',
-        'answer' => 'Oczywiście! Polecimy sprawdzonych szefów kuchni i firmy cateringowe, które czują klimat slow wedding. Możecie też przywieźć własną ekipę, a my oddamy do dyspozycji w pełni wyposażone zaplecze.'
+        'question' => 'Jakie wsparcie zapewniacie podczas samego wydarzenia?',
+        'answer' => 'Jesteśmy na miejscu przez cały czas najmu. Pokażemy ekipom zaplecze, pomożemy rozstawić dekoracje, przypilnujemy harmonogramu, a nad ranem posprzątamy i odświeżymy salę.'
     ],
     [
-        'question' => 'Czy można zorganizować ceremonię cywilną albo humanistyczną na miejscu?',
-        'answer' => 'Tak, wspólnie ustawimy scenografię na łące lub przy drewnianej bramie. Mamy też plan B we wnętrzu stodoły, gdyby pogoda zaskoczyła.'
+        'question' => 'Czy współpracujecie z firmami cateringowymi?',
+        'answer' => "Tak, polecamy Gościniec Stara Mleczarnia z Bolkowa (509 187 749), Kuchnię Luz'n'Bluez z Kamiennej Góry (603 087 420), ekipę Kocharz z Wrocławia oraz kucharki Ani Zwańczyk (784 252 944). Wszyscy znają nasze zaplecze i chętnie wracają."
     ],
     [
-        'question' => 'Jak wyglądają noclegi dla gości?',
-        'answer' => 'Na miejscu czeka 25 łóżek w przytulnych pokojach ze wspólnymi łazienkami. Jeśli planujecie więcej miejsc, pomagamy rozstawić namioty lub polecamy pensjonaty w okolicy.'
+        'question' => 'Co z własnym cateringiem lub kucharkami?',
+        'answer' => 'Jeśli wybierzecie inną ekipę, sami do nich zadzwonimy, pokażemy kuchnię i sprawdzimy potrzeby. Zaplecze ma 65 m², osobny zmywak, chłodnię, zastawę Lubiany, bemary, warniki i ekspres gastronomiczny.'
     ],
     [
-        'question' => 'Co z dekoracjami i wystrojem?',
-        'answer' => 'Udostępniamy Wam nasze dekoracje, a jeśli marzycie o czymś wyjątkowym, podpowiemy, gdzie wypożyczyć dodatkowe elementy. Chętnie pomożemy też w stylizacji sali w dniu ślubu.'
+        'question' => 'Jak rozwiązujemy kwestię ciszy nocnej?',
+        'answer' => "W stodole cisza nocna nie obowiązuje. Dla komfortu gości i sąsiadów prosimy DJ'a lub zespół o trzymanie się 100 dB – mamy miernik, który na bieżąco pokazuje głośność. Na łące można hałasować do woli."
     ],
     [
-        'question' => 'Jak przebiega dzień wesela z naszej perspektywy?',
-        'answer' => 'Jesteśmy z Wami od poranka. Razem z zespołem koordynujemy dostawców, rozstawiamy dekoracje, pilnujemy harmonogramu i reagujemy na bieżące potrzeby, żebyście Wy mogli skupić się na celebrowaniu.'
+        'question' => 'Do której możemy się bawić?',
+        'answer' => 'W umowie macie wynajem do 7:00 rano, żebyśmy zdążyli przygotować salę na ewentualne poprawiny. Jeśli je organizujecie, od 10:00 w niedzielę wszystko czeka gotowe.'
     ],
     [
-        'question' => 'Czy możemy odwiedzić Stodołę przed podjęciem decyzji?',
-        'answer' => 'Jasne! Umówcie się z nami na spacer po gospodarstwie. Pokażemy Wam salę, łąkę, zaplecze i odpowiemy na wszystkie pytania przy kawie.'
+        'question' => 'Czy możemy przywieźć własny alkohol?',
+        'answer' => 'Oczywiście. Nie pobieramy korkowego ani prowizji. Alkohol możecie schłodzić w naszej chłodni i przechować do czasu, aż będziecie gotowi go odebrać.'
     ],
     [
-        'question' => 'Jak długo możemy bawić się w noc wesela?',
-        'answer' => 'Nie ograniczamy Was do sztywnych godzin. Możemy tańczyć do białego rana, a ognisko na łące rozpalimy dokładnie wtedy, kiedy będziecie mieli ochotę.'
+        'question' => 'Jak wygląda sprzątanie po weselu?',
+        'answer' => 'Ekipa cateringowa sprząta stoły i zmywa zastawę, a my między 7:00 a 10:00 ogarniamy salę, czyścimy stoły i przygotowujemy przestrzeń. Dekoracje możecie zabrać po odpoczynku – nawet do wtorku.'
+    ],
+    [
+        'question' => 'Jakie są zasady rezerwacji i zadatku?',
+        'answer' => 'Zadatek to 30% wartości wynajmu (3 600 zł przy cenie 12 000 zł). Możecie go wpłacić przelewem lub kartą. Termin rezerwujemy wstępnie na 14 dni, a w razie konieczności możemy zrobić cesję na inną parę nawet do 7 dni przed wydarzeniem.'
+    ],
+    [
+        'question' => 'Jak rozwiązujemy noclegi i meldowanie?',
+        'answer' => 'Pokoje będą gotowe od 10:00 w dniu wesela, a wymeldowanie standardowo jest do 11:00 (możemy je przedłużyć do 12:00 lub 18:00 za połowę ceny doby). Od sezonu 2026/2027 dołożymy dwa namioty glampingowe.'
+    ],
+    [
+        'question' => 'Czy można zwiększyć liczbę miejsc noclegowych?',
+        'answer' => 'Na miejscu mamy 25 łóżek i nie dokładamy dostawek dla komfortu gości. Polecamy Agroturystykę Na Skraju (15 miejsc, 3 km) oraz Gościniec Stara Mleczarnia (45 miejsc, 5 km). Możemy pomóc z transportem.'
+    ],
+    [
+        'question' => 'Jak wyposażone są pokoje?',
+        'answer' => 'Każdy pokój ma łóżka z pościelą, ręczniki, stolik, krzesła, lustro, część ma szafy i TV. W łazienkach czekają suszarki, a w domu znajdziecie pralkę, suszarkę bębnową i żelazko parowe. WiFi śmiga w całym obiekcie.'
     ],
 ];
 ?>
